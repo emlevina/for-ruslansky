@@ -13,8 +13,8 @@ const TableBody = ({ tableData }) => {
     return (
         <Tbody>
             {tableData.map((car) => {
-                let price = car.price.toLocaleString("ru-RU", {style:"currency", currency:"RUB", minimumFractionDigits: 0});
-                let color = car.color;
+                const price = car.price.toLocaleString("ru-RU", {style:"currency", currency:"RUB", minimumFractionDigits: 0});
+                const color = car.color;
 
                 return (
                     <Tr key={car.id}>

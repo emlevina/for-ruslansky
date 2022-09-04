@@ -3,6 +3,7 @@ import { Table } from 'react-super-responsive-table'
 import './SuperResponsiveTableStyle.css'
 import TableHead from './TableHead';
 import TableBody from './TableBody';
+import './CarList.css'
 
 const CarsList = () => {
     const [ cars, setCars ] = useState(null)
