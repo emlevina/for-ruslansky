@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/for-shitty-pants/static/css/main.4f8e560f.css",
+    "main.css": "/for-shitty-pants/static/css/main.74411236.css",
     "main.js": "/for-shitty-pants/static/js/main.e0ec61e6.js",
     "static/js/787.0793f737.chunk.js": "/for-shitty-pants/static/js/787.0793f737.chunk.js",
     "index.html": "/for-shitty-pants/index.html",
-    "main.4f8e560f.css.map": "/for-shitty-pants/static/css/main.4f8e560f.css.map",
+    "main.74411236.css.map": "/for-shitty-pants/static/css/main.74411236.css.map",
     "main.e0ec61e6.js.map": "/for-shitty-pants/static/js/main.e0ec61e6.js.map",
     "787.0793f737.chunk.js.map": "/for-shitty-pants/static/js/787.0793f737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f8e560f.css",
+    "static/css/main.74411236.css",
     "static/js/main.e0ec61e6.js"
   ]
 }
